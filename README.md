@@ -6,7 +6,7 @@ Meu nome é Renan Matos, tenho 18 anos e sou estudante de Desenvolvimento de Sis
 
 - 💻 Estudo Desenvolvimento de Sistemas na ETEC de Taboão da Serra e faço curso de JavaScript na Udemy.
 - 🌐 Desenvolvo projetos web utilizando JavaScript e PHP.
-- 📚 Atualmente, estou explorando ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- 📚 Atualmente, estou explorando CRUD com PHP.
 
 ## Habilidades e Interesses 🌟
 
