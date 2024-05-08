@@ -6,7 +6,7 @@ Meu nome é Renan Matos, tenho 18 anos e sou estudante de Desenvolvimento de Sis
 
 - 💻 Estudo Desenvolvimento de Sistemas na ETEC de Taboão da Serra e faço curso de JavaScript na Udemy.
 - 🌐 Desenvolvo projetos web utilizando JavaScript e PHP.
-- 📚 Atualmente, estou explorando CRUD com PHP.
+- 📚 Atualmente, estou explorando o padrão de arquitetura MVC com PHP usando Laravel.
 
 ## Habilidades e Interesses 🌟
 
